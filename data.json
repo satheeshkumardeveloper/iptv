@@ -1,7 +1,7 @@
 {
   "folderSummary": {
-    "totalFolders": 2,
-    "totalFiles": 16
+    "totalFolders": 4,
+    "totalFiles": 32
   },
   "folderDetails": {
     "id": "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
@@ -28,6 +28,14 @@
       ],
       [
         "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
+        "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ"
+      ],
+      [
+        "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
+        "1qTZVOCegksAXmZhJpO-Gpzm0QeDBH4F_"
+      ],
+      [
+        "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
         "1PcTDv3vyEJg6BeIkIGq8rMhAy2H6x8G8"
       ],
       [
@@ -37,11 +45,15 @@
     ],
     "names": [
       "Torrent",
+      "FinanceMovie",
+      "Pharma (2025) S01 EP (01-08) TRUE WEB-DL - 720p - AVC - [Tam   Tel   Hin   Mal   Kan] - (DD 5.1 - 192Kbps) - 3.1GB - ESub",
       "Execute",
       "Clip"
     ],
     "folders": [
       "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
+      "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
+      "1qTZVOCegksAXmZhJpO-Gpzm0QeDBH4F_",
       "1PcTDv3vyEJg6BeIkIGq8rMhAy2H6x8G8",
       "1g-bB6m2FhOT20yqpbXbftFQr7B1FXojo"
     ]
@@ -49,27 +61,63 @@
   "allFiles": [
     {
       "folderName": "Torrent",
-      "fileCount": 4,
+      "fileCount": 1,
       "files": [
         {
           "index": 1,
-          "name": "The Girlfriend (2025) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC) - 950MB - ESub.mkv",
-          "id": "1pQiECLDWS9S7uG2fRiR9etwsrw0zEbfg"
+          "name": "12d2c7f1a6a6719631e4803d27abcae1bb7eae2c9d82107a8f8a85d06241ac8e",
+          "id": "1LBSXj1X4261k0Qihe4RAG5Z9fMiMyFyc"
+        }
+      ]
+    },
+    {
+      "folderName": "FinanceMovie",
+      "fileCount": 0,
+      "files": []
+    },
+    {
+      "folderName": "Pharma (2025) S01 EP (01-08) TRUE WEB-DL - 720p - AVC - [Tam   Tel   Hin   Mal   Kan] - (DD 5.1 - 192Kbps) - 3.1GB - ESub",
+      "fileCount": 8,
+      "files": [
+        {
+          "index": 1,
+          "name": "Pharma S01E08 The Promotion Leap.mkv",
+          "id": "17fJL-aYpp776w_-kA7mX1ymtsi_o9xP7"
         },
         {
           "index": 2,
-          "name": "Stephen (2025) HQ HDRip - 720p - x264 - [HIN + MAL + KAN] - (DD+5.1 - 192Kbps & AAC 2.0) - 1.5GB - ESub.mkv",
-          "id": "1jOTTGUIeqEiTs4TzsdVr5g-DMRaRxN0b"
+          "name": "Pharma S01E07 Resurrection.mkv",
+          "id": "12VKvZzbSoRDFrNO_YTWkzdpkqnxpoMou"
         },
         {
           "index": 3,
-          "name": "The Hard Corps (2005) BluRay - 1080p - x264 - [Tami _ Eng] - AAC - 1.7GB - ESub.mkv",
-          "id": "1DGWx1gZe89v1TKJ3MJPnpa9DwVYIYkDV"
+          "name": "Pharma S01E06 When the Numbers Fall.mkv",
+          "id": "1GH_rydwg4YDbQxXP2WNDZ1HWU6QmBC55"
         },
         {
           "index": 4,
-          "name": "Bring Her Back (2025) BluRay - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD_5.1 - 192Kbps) - 1.2GB - ESub.mkv",
-          "id": "18AEOBpY9gr6y9S8nOBiq8NQTMkBpivmA"
+          "name": "Pharma S01E05 Chasing Targets.mkv",
+          "id": "1qK4G5Iuekp-YhCIra8WsP2arPfO42Qbb"
+        },
+        {
+          "index": 5,
+          "name": "Pharma S01E04 The Confirmation Call.mkv",
+          "id": "1WxcSzYu7o0oC0ZGi1XyQ1DSEp1hqDdbH"
+        },
+        {
+          "index": 6,
+          "name": "Pharma S01E03 On Probation.mkv",
+          "id": "1QoBPQq8dbC8QYUBwpNxi_gU9sr5xfIRr"
+        },
+        {
+          "index": 7,
+          "name": "Pharma S01E02 Days of Discipline.mkv",
+          "id": "1Xz5jTCOw58qkYvc0JwLcNH8PHco0KbWV"
+        },
+        {
+          "index": 8,
+          "name": "Pharma S01E01 The Humble Start.mkv",
+          "id": "17XPlfyR2vGBsbzK0IELDrILwZarpVhp2"
         }
       ]
     },
@@ -101,45 +149,100 @@
     },
     {
       "folderName": "Clip",
-      "fileCount": 8,
+      "fileCount": 19,
       "files": [
         {
           "index": 1,
+          "name": "Americana (2025) BluRay - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD_5.1 - 192Kbps) - 1.3GB - ESub.mkv",
+          "id": "19NXy2l0f0hrzMi4CS7rd0WR8fNh9E6oe"
+        },
+        {
+          "index": 2,
+          "name": "Dominic and the Ladies Purse (2025) Tamil HQ HDRip - 720p - HEVC - x265 - (DD_5.1\u00a0- 192Kbps _ AAC) - 950MB - ESub.mkv",
+          "id": "1fCOdlnhYxFfPuloXKc98RH_rEZDYrdS8"
+        },
+        {
+          "index": 3,
+          "name": "Premante (2025) Tamil HQ HDRip - 720p - x264 - (DD_5.1 - 192Kbps _ AAC) - 1.4GB - ESub.mkv",
+          "id": "1w8vbHvA5KGulb8nPNvuZjbGSSEzWmx0L"
+        },
+        {
+          "index": 4,
+          "name": "UnPaarvayil (2025) Tamil HQ HDRip - 720p - x264 - (DD_5.1 - 192Kbps _ AAC 2.0) - 1.3GB.mkv",
+          "id": "1f9wrhc7EHqHPfA3krHdh7tlAnkr9dgyy"
+        },
+        {
+          "index": 5,
+          "name": "Date with Saie (2025) Tamil HQ HDRip - 720p - x264 - (DD_5.1 - 192Kbps _ AAC 2.0) - 1.3GB - ESub.mkv",
+          "id": "1PO5XvKUClx_KFKO0yLRSvPFbLBNRLI_4"
+        },
+        {
+          "index": 6,
+          "name": "The Billion Dollar Threat (1979) HQ HDRip\u00a0- 720p - x264 - [Tamil _ Telugu _ Hindi _ Eng] - (AAC 2.0) - 1.1GB.mkv",
+          "id": "1JMPMgrXnUV4ikHSdvd1cDVNwzp2b8rEG"
+        },
+        {
+          "index": 7,
+          "name": "Troll 2 (2025) HQ HDRip - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD5.1 - 192Kbps) - 1.3GB - ESub.mkv",
+          "id": "1UMmPVzyyaQkC9w-uByweWeW6aa1BTTBk"
+        },
+        {
+          "index": 8,
+          "name": "The Girlfriend (2025) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC) - 950MB - ESub.mkv",
+          "id": "1pQiECLDWS9S7uG2fRiR9etwsrw0zEbfg"
+        },
+        {
+          "index": 9,
+          "name": "Stephen (2025) HQ HDRip - 720p - x264 - [HIN + MAL + KAN] - (DD+5.1 - 192Kbps & AAC 2.0) - 1.5GB - ESub.mkv",
+          "id": "1jOTTGUIeqEiTs4TzsdVr5g-DMRaRxN0b"
+        },
+        {
+          "index": 10,
+          "name": "The Hard Corps (2005) BluRay - 1080p - x264 - [Tami _ Eng] - AAC - 1.7GB - ESub.mkv",
+          "id": "1DGWx1gZe89v1TKJ3MJPnpa9DwVYIYkDV"
+        },
+        {
+          "index": 11,
+          "name": "Bring Her Back (2025) BluRay - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD_5.1 - 192Kbps) - 1.2GB - ESub.mkv",
+          "id": "18AEOBpY9gr6y9S8nOBiq8NQTMkBpivmA"
+        },
+        {
+          "index": 12,
           "name": "Bring Her Back (2025) BluRay - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD_5.1 - 192Kbps) - 1.2GB - ESub.mkv",
           "id": "1aBBSA6LLqeucFOTXlGbNAC6MruSDe6b5"
         },
         {
-          "index": 2,
+          "index": 13,
           "name": "The Hard Corps (2005) BluRay - 1080p - x264 - [Tami _ Eng] - AAC - 1.7GB - ESub.mkv",
           "id": "1zebayJ0f6MFx-zeMmWTcIHYO136d1LTh"
         },
         {
-          "index": 3,
+          "index": 14,
           "name": "Hot Stuff (1979) HQ HDRip - 1080p - x264 - [Tamil _ Telugu _ Hindi _ Eng] - (AAC 2.0) - 1.6GB - ESub.mkv",
           "id": "1ckavymzRHDbEbOxGKFfQW1M7p_jXPta1"
         },
         {
-          "index": 4,
+          "index": 15,
           "name": "Hex (2018) HQ HDRip - 1080p - x264 - [Tamil _ Hindi _ Eng] - (AAC 2.0) - 1.5GB.mkv",
           "id": "1A2NT2GoCwYG-KoZifdJerx5rk_O22Sfs"
         },
         {
-          "index": 5,
+          "index": 16,
           "name": "Happy Birthday Luci (2024) Tamil HQ HDRip - 720p - x264 - (AAC 2.0) - 850MB.mkv",
           "id": "1GZcOEAHP9XB5XZY8x4Voy40mMQb29Oy-"
         },
         {
-          "index": 6,
+          "index": 17,
           "name": "Devaki (2025) HQ HDRip - 720p - x265 - HEVC - [Tam _ Kan] - AAC - 1GB - ESub.mkv",
           "id": "1Ml6KhUOxgW2iNifGNRr_NXf4T-adz0k4"
         },
         {
-          "index": 7,
+          "index": 18,
           "name": "The Rats  A Witcher Tale (2025) HQ HDRip - 720p - x264 - [Tam _ Tel _ Hin _ Eng] - (DD_5.1 - 192Kbps) - 1.2GB - ESub.mkv",
           "id": "1tFGPKepch_6F-jzZy0BYH8EWbsID16ku"
         },
         {
-          "index": 8,
+          "index": 19,
           "name": "Vikkatakavi - The Movie (2025) Tamil HQ HDRip - 720p -\u00a0HEVC\u00a0-\u00a0x265\u00a0- (DD_5.1 - 192Kbps _ AAC 2.0) - 900MB - ESub.mkv",
           "id": "1by2usX9Q5A3Gu5Hnu2xuP12shpCwRiQg"
         }
