@@ -1,7 +1,7 @@
 {
   "folderSummary": {
     "totalFolders": 9,
-    "totalFiles": 40
+    "totalFiles": 43
   },
   "folderDetails": {
     "id": "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
@@ -33,11 +33,6 @@
       [
         "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
         "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
-        "1mpOZGmvjnPh2hKM_gRCIu-p-nlFRX6UX"
-      ],
-      [
-        "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
-        "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
         "1YICXY8n6hKAR4iZJHByTvtFuut8s4Z_D"
       ],
       [
@@ -45,6 +40,11 @@
         "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
         "1YICXY8n6hKAR4iZJHByTvtFuut8s4Z_D",
         "1lctI7CYM1sYmtlIrGO1u6JpsdZp_-Sed"
+      ],
+      [
+        "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
+        "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
+        "1mpOZGmvjnPh2hKM_gRCIu-p-nlFRX6UX"
       ],
       [
         "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
@@ -72,9 +72,9 @@
     "names": [
       "Torrent",
       "FinanceMovie",
-      "The.Big.Short.2015.BRRip.XviD.B4ND1T69",
       "Moneyball (2011) 720p BluRay x264 - 800MB - YIFY",
       "Other",
+      "The.Big.Short.2015.BRRip.XviD.B4ND1T69",
       "Margin.Call.2011.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG",
       "Inside Job (2010) 1080p BrRip x264 - YIFY",
       "Pharma (2025) S01 EP (01-08) TRUE WEB-DL - 720p - AVC - [Tam   Tel   Hin   Mal   Kan] - (DD 5.1 - 192Kbps) - 3.1GB - ESub",
@@ -84,9 +84,9 @@
     "folders": [
       "1weipX2qsT2RhLi21lO6bCjknGJo8r8zr",
       "1TZTTtZiNJ6t4zxFwvKs5uIiGM4jgntGZ",
-      "1mpOZGmvjnPh2hKM_gRCIu-p-nlFRX6UX",
       "1YICXY8n6hKAR4iZJHByTvtFuut8s4Z_D",
       "1lctI7CYM1sYmtlIrGO1u6JpsdZp_-Sed",
+      "1mpOZGmvjnPh2hKM_gRCIu-p-nlFRX6UX",
       "19QhUqkjiu61sABfx_X-1cuXHRPfIZ686",
       "14PVzJRxaXWdTE3wJoeTKKmkI-SEJQCEN",
       "1qTZVOCegksAXmZhJpO-Gpzm0QeDBH4F_",
@@ -97,16 +97,27 @@
   "allFiles": [
     {
       "folderName": "Torrent",
-      "fileCount": 0,
-      "files": []
+      "fileCount": 3,
+      "files": [
+        {
+          "index": 1,
+          "name": "Stranger Things S05E07 Chapter Seven - The Bridge 1080p WEB-DL x264 (DD_ 5.1 - 192kbps) [Tam _ Tel _ Hin _ Eng] MSub.mkv",
+          "id": "1u99QFkEDcCpckhvmQD1Bjp2q7WLLZjzu"
+        },
+        {
+          "index": 2,
+          "name": "Stranger Things S05E05 Chapter Five - Shock Jock 1080p WEB-DL x264 (DD_ 5.1 - 192kbps) [Tam _ Tel _ Hin _ Eng] MSub.mkv",
+          "id": "1o95pvnZyoO3pDKvTzm7i9nY9tTLQEI40"
+        },
+        {
+          "index": 3,
+          "name": "Stranger Things S05E06 Chapter Six - Escape from Camazotz 1080p WEB-DL x264 (DD_ 5.1 - 192kbps) [Tam _ Tel _ Hin _ Eng] MSub.mkv",
+          "id": "1KCXNa2NyXebe9-BPQ-7Okq6Iurv3Fko4"
+        }
+      ]
     },
     {
       "folderName": "FinanceMovie",
-      "fileCount": 0,
-      "files": []
-    },
-    {
-      "folderName": "The.Big.Short.2015.BRRip.XviD.B4ND1T69",
       "fileCount": 0,
       "files": []
     },
@@ -146,6 +157,11 @@
           "id": "1XqzFsOK28HlnfKxyPbV_mFZieCWoT1cb"
         }
       ]
+    },
+    {
+      "folderName": "The.Big.Short.2015.BRRip.XviD.B4ND1T69",
+      "fileCount": 0,
+      "files": []
     },
     {
       "folderName": "Margin.Call.2011.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG",
