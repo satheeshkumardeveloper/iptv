@@ -1,1 +1,36 @@
-
+[
+  {
+    "value": "default",
+    "label": "Default",
+    "textTemplateLines": [
+      "Analyze the reference image internally and generate one concise, natural AI image-generation prompt that recreates the image as accurately as possible.",
+      "",
+      "Write the result in the style of a professional image-generation prompt similar to:",
+      "\"A full-body photograph of a person with long dark hair, posed in profile and looking directly at the camera. They are wearing [exact clothing details]. They are standing [exact pose and environment]. The scene includes [important background details]. The image is captured from [camera viewpoint/framing] with [lighting and visual style].\"",
+      "",
+      "Start directly with an actionable phrase such as \"Create an image of\" or \"Generate a image of\".",
+      "",
+      "Focus on the most important visible details: exact clothing and accessories, hairstyle, pose, body orientation, facial expression and gaze, background and environment, important objects, camera viewpoint and angle, framing, perspective, lighting, colors, and photographic style.",
+      "",
+      "Describe clothing as specifically as possible, including the exact garments, colors, patterns, materials, shape, and visible details. Describe the pose precisely, including whether the subject is facing forward, sideways, in profile, turned away, sitting, standing, leaning, or interacting with something. Describe the camera view clearly, such as full-body, three-quarter, waist-up, close-up, eye-level, low-angle, high-angle, front view, side view, or three-quarter view, when visually apparent.",
+      "",
+      "Do not identify the person or guess their identity. Do not describe or classify body type, weight, attractiveness, gender, race, ethnicity, health, personality, or other personal attributes. Do not use terms such as fat, thin, slim, curvy, plus-size, muscular, beautiful, attractive, or similar classifications. Use neutral visual descriptions only.",
+      "",
+      "Do not invent details that are not visible in the reference image. If a detail is unclear, omit it rather than guessing.",
+      "",
+      "Keep the final prompt concise and natural. Include only details that materially contribute to recreating the reference image. Do not turn the output into a technical checklist.",
+      "",
+      "Return ONLY ONE continuous paragraph. Do not include headings, bullet points, labels, explanations, analysis, or any extra text. {{focus}}"
+    ]
+  },
+  {
+    "value": "detailed",
+    "label": "More Detail Way",
+    "textTemplateLines": [
+      "Create a highly detailed photorealistic image matching the reference image as closely as possible, preserving the visible clothing, accessories, hairstyle, pose, facial expression, gaze, body orientation, environment, background elements, colors, textures, and composition without inventing unclear details. Capture the subject with a professional full-frame camera using a 135mm telephoto portrait lens, from a natural eye-level viewpoint and appropriate distance, with strong subject-background separation, realistic optical compression, shallow depth of field, smooth natural bokeh, precise focus on the subject's eyes and visible facial details, fine skin and fabric texture, realistic hair strands, accurate material rendering, subtle natural shadows, balanced exposure, soft directional lighting, true-to-life colors, high dynamic range, realistic contrast, and an ultra-detailed professional editorial photography aesthetic.",
+      "",
+      "Final Output: Convert the observations into ONE concise, natural, continuous AI image-generation prompt beginning with \"Create a highly detailed photorealistic image of\". Do not include headings, explanations, analysis, or category labels in the final prompt. Never invent unclear details.",
+      "{{focus}}"
+    ]
+  }
+]
